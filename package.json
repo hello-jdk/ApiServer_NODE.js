@@ -1,0 +1,17 @@
+{
+  "name": "apiserver",
+  "version": "1.0.0",
+  "description": "- Node.js에서 API 서버 만들기\r   https://www.youtube.com/watch?v=8XpVJaEWesM&list=LL&index=1&t=30s",
+  "main": "api.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "uuid-apikey": "^1.5.3"
+  }
+}
